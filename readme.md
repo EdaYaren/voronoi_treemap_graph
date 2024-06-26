@@ -41,6 +41,7 @@ Bu projede kullanılan [veri seti](https://www.kaggle.com/datasets/russellyates8
 
 Sonuç grafiği, projede kullanılan veri setini ve analiz edilen değişkenleri görselleştirmek için oluşturulmuştur. Grafikte en fazla intihar oranına sahip olan 1999 yılına ait 5 yaş grubu için 10 ülkedeki kadın ve erkek intihar oranlarına dair voronoi ağaç haritası verilmiştir.
 
+![Sonuç Grafiği](https://github.com/EdaYaren/voronoi_treemap_graph/blob/main/voronoi_treemap.png)
 
 
 
